@@ -1,0 +1,3 @@
+WARNING: Disk space is running low.
+ERROR: Database connection failed.
+FAIL: Authentication module test failed.

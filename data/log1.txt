@@ -1,0 +1,10 @@
+INFO: Application starting up.
+DEBUG: Configuration loaded.
+WARNING: Disk space is running low.
+INFO: User 'admin' logged in.
+ERROR: Database connection failed.
+INFO: Processing request #123.
+PASS: System health check successful.
+FAIL: Authentication module test failed.
+INFO: Shutting down application.
+DEBUG: This line has no keywords.
